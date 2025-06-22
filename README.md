@@ -82,10 +82,11 @@ This project showcases an end-to-end analysis of historical sales data for a ret
 ## 📸 Dashboard Previews
 
 **Sales Dashboard**  
-![Sales Dashboard](images/sales_dashboard.png)
+
 
 **Forecast Dashboard**  
-![Forecast Dashboard](images/forecast_dashboard.png)
+[Forecast dashboard screenshot](https://github.com/user-attachments/assets/467d71c1-7572-4d1e-a7bc-b26813f2fd92)
+
 
 ---
 
