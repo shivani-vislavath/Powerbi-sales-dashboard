@@ -21,7 +21,7 @@ This project showcases an end-to-end analysis of historical sales data for a ret
 ---
 
 ## 📁 Files Included
--  – Full Power BI Dashboard file
+- https://github.com/shivani-vislavath/Powerbi-sales-dashboard/blob/main/superstore_sales_Dashboard.pbix – Full Power BI Dashboard file
 - https://github.com/shivani-vislavath/Powerbi-sales-dashboard/blob/main/sales%20dashboard%20screenshot.png – Screenshot of Sales Dashboard
    – https://github.com/shivani-vislavath/Powerbi-sales-dashboard/blob/main/Forecast%20dashboard%20screenshot.png- Screenshot of 15-Day Forecast Dashboard
 
@@ -58,7 +58,7 @@ This project showcases an end-to-end analysis of historical sales data for a ret
 ---
 
 ## 🚀 How to Use
-1. Open `superstore_sales_Dashboard.pbix` in Power BI Desktop
+1. Open https://github.com/shivani-vislavath/Powerbi-sales-dashboard/blob/main/superstore_sales_Dashboard.pbix- in Power BI Desktop
 2. Use slicers to filter by region, year, or segment
 3. Hover on visuals to see tooltips for detailed values
 4. Review the forecast section for short-term sales trends
