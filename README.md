@@ -85,7 +85,7 @@ This project showcases an end-to-end analysis of historical sales data for a ret
 
 
 **Forecast Dashboard**  
-[Forecast dashboard screenshot](https://github.com/user-attachments/assets/467d71c1-7572-4d1e-a7bc-b26813f2fd92)
+https://github.com/shivani-vislavath/Powerbi-sales-dashboard/blob/main/Forecast%20dashboard%20screenshot.png
 
 
 ---
