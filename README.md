@@ -21,9 +21,9 @@ This project showcases an end-to-end analysis of historical sales data for a ret
 ---
 
 ## 📁 Files Included
-- `superstore_sales_Dashboard.pbix` – Full Power BI report file
-- `images/sales_dashboard.png` – Screenshot of Sales Dashboard
-- `images/forecast_dashboard.png` – Screenshot of 15-Day Forecast Dashboard
+-  – Full Power BI Dashboard file
+- https://github.com/shivani-vislavath/Powerbi-sales-dashboard/blob/main/sales%20dashboard%20screenshot.png – Screenshot of Sales Dashboard
+   – https://github.com/shivani-vislavath/Powerbi-sales-dashboard/blob/main/Forecast%20dashboard%20screenshot.png- Screenshot of 15-Day Forecast Dashboard
 
 ---
 
